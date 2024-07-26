@@ -692,6 +692,7 @@ http://geldanlage.rechner.wiwo.de
 http://kredit.rechner.wiwo.de
 Frame:50
 http://ratenkredit.fmh-rechner.de
+https://www.mesem.de
 http://hypotheken.rechner.wiwo.de
 http://effektivzins.rechner.wiwo.de
 http://tilgung.rechner.wiwo.de
